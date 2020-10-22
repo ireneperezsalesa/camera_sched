@@ -1,0 +1,6 @@
+<launch>
+
+  <!-- parameters for scheduling -->
+    <rosparam file="$(find camera_sched)/config/schedule.yaml" />
+
+</launch>
